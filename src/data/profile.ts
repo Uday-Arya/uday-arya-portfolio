@@ -24,7 +24,7 @@ export const profile = {
       orgUrl: 'https://www.linkedin.com/company/nokia',
       title: 'UI Developer Intern',
       dates: 'Sep 2024 — Dec 2024',
-      duration: '3 months',
+      duration: '4 months',
       location: 'Ottawa, Ontario, Canada',
       detail: 'Engineering and Technical · Intern',
     },
